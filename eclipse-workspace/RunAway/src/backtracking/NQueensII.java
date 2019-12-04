@@ -1,4 +1,4 @@
-package Backtracking;
+package backtracking;
 
 /*
  * have the idea of prune along the way

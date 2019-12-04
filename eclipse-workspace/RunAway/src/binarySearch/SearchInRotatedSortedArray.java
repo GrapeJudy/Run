@@ -1,4 +1,4 @@
-package BinarySearch;
+package binarySearch;
 
 public class SearchInRotatedSortedArray {
 	// just follow a normal pattern then do the search,
